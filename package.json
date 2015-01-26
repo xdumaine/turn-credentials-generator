@@ -1,0 +1,19 @@
+{
+  "name": "turn-credentials-generator",
+  "version": "0.1.0",
+  "description": "Generates TURN server credentials in the method described by RFC 5766",
+  "main": "generate.js",
+  "dependencies": {
+    "stdio": "^0.2.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "TURN",
+    "WEbRTC"
+  ],
+  "author": "Xander Dumaine",
+  "license": "ISC"
+}
